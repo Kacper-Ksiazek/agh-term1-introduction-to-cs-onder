@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(54,47): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(54,51): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(62,50): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(63,74): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(71,50): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(72,49): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(80,50): warning C4090: 'function': different 'const' qualifiers
+C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\Project1\main.c(81,49): warning C4090: 'function': different 'const' qualifiers
+  Project1.vcxproj -> C:\Users\jodax\Documents\PROGRAMOWANIE\AGH\TERM_1\Introduction to Computer Science\c\C_LANGUAGE_PLAYGROUND\AlgebraVisualStudio\a\Project1\x64\Debug\Project1.exe
